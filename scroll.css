@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.screen{
+    height: 70px;
+    width: 400px;
+    overflow: auto;
+    border: 2px solid #000;
+}

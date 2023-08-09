@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+}
+form{
+    height: 40vh;
+    width: 35vw;
+    margin: 5rem auto;
+    border: 1px solid #000;
+    padding: 2rem;
+    border-radius: 1rem;
+    background-color: rgba(128, 0, 0, 0.405);
+}
+#inpt{
+    height: 4vh;
+    width: 16vw;
+    margin: 0.5rem 0;
+}
+button{
+    background-color: maroon;
+    display: none;
+    color: #FFF;
+    border-radius: 10px;
+    height: 5vh;
+    width: 15vw;
+    margin: 0.5rem 0;
+}
+h1{
+    text-align: center;
+    color: #FFF;
+}
